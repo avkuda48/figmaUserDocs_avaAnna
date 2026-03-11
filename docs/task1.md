@@ -1,4 +1,4 @@
-# Task 1 - Create a Collaborative Project
+# Create a Collaborative Project
 
 This article will walk you through how to start a project in Figma and add collaborators to it.
 
@@ -6,23 +6,23 @@ This article will walk you through how to start a project in Figma and add colla
 
 Before we can add collaborators, we need a project to add them to. A project is a collection of all your collaborative files, which can be accessed, created and/or deleted by any of the collaborators you add.
 
-1.  Navigate to the top left panel of Figma’s homepage and click all projects.
+1. Navigate to the top left panel of Figma’s homepage and click all projects.
 
-    ![homepage menu with links to pages entitled drafts, all projects, resources, and trash](images/task1_step1)
+    ![homepage menu with links to pages entitled drafts, all projects, resources, and trash](../imgs/task1-1-allProjsMenu.png)
 
-2.  Navigate to the top right corner and click the blue project button.
+2. Navigate to the top right corner and click the blue project button.
 
     This should trigger a popup and a series of text inputs to name your project and add collaborators.
 
-    ![blue button to create a new project](images/task1_step2)
+    ![blue button to create a new project](../imgs/task1-2-createFileButton.png)
 
-3.  Name your project
+3. Name your project
 
     !!! info
 
         Your collaborators will be able to see your project name when you send them the invitation to join, so be sure to name it something they will recognize.
 
-4.  Add the emails of your collaborators
+4. Add the emails of your collaborators
 
     !!! warning
 
@@ -34,11 +34,11 @@ If you want to add a new collaborator or change an existing collaborator’s per
 
 1. In the project, navigate to top right corner and click the grey share button.
 
-    ![share button to the right of blue create button](images/task1-image3)
+    ![share button to the right of blue create button](../imgs/task1-3-shareButton.png)
 
     This will open the share settings. Here, you can add new collaborators and change permissions.
 
-    ![form to add collaborators and edit permissions](images/task1-image3)
+    ![form to add collaborators and edit permissions](../imgs/task1-4-shareSettings.png)
 
 ### Add a new Collaborator
 
@@ -50,7 +50,7 @@ If you want to add a new collaborator or change an existing collaborator’s per
 
 2. Click on the permissions you want that collaborator to have
 
-![pop-up window of user permission options](images/task1-image4)
+![pop-up window of user permission options](../imgs/task1-5-permissionsDropDown.png)
 
 !!! info
 
