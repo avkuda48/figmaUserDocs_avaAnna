@@ -1,6 +1,11 @@
 # Introduction
 
-This documentation serves as a walk-through of Figma’s most essential collaboration, design, and prototype tools. The goal is to provide new users with a foundational understanding of how to collaborate with team members on a Figma project, what design tools are available to them and how to use them, as well as how to prototype their designs to reflect a real-world application.
+This documentation serves as a walk-through of Figma’s most essential collaboration, design, and prototype tools. The goal is to provide new users with a foundational understanding of how to:
+
+1. Create a Figma project and add collaborators to it
+2. Create a collaborative design file
+3. Create a design
+4. Prototype application designs to represent their real-world functionality.
 
 Figma is a collaborative design software aimed at designing, prototyping, and building digital products quickly and efficiently. It’s the industry standard for team-focused interactive design.
 
@@ -10,7 +15,7 @@ This documentation is intended for absolute beginners to the software. No prior 
 
 ## Requirements
 
-You will need a Figma account and access to the internet. This documentation is built around the Figma web app and not the desktop app.
+You will need a [Figma account](https://www.figma.com/login) and access to the internet. This documentation is built around the [Figma web app](https://www.figma.com/) and not the desktop app.
 
 ## Typographical Conventions
 
@@ -36,22 +41,18 @@ To denote when a user should perform certain actions on an element of the page, 
 
 This documentation uses message blocks to inform the reader of information relevant to the section they are reading.
 
-!!! danger
+!!! success
 
-    This icon informs the reader of an action that might crash the software.
-
-!!! warning
-
-    This icon informs the reader of an action that might cause a minor issue.
+    This icon informs the reader what a successful execution of the action will look like.
 
 !!! info
 
     This icon informs the reader of additional tips or notes.
 
-!!! success
-
-    This icon informs the reader what a successful execution of the action will look like.
-
 !!! example
 
     This icon informs the reader of an example.
+
+!!! warning
+
+    This icon informs the reader of an action that might cause an issue.
