@@ -19,23 +19,31 @@ You will need a [Figma account](https://www.figma.com/login) and access to the i
 
 ## Typographical Conventions
 
-*Menu Navigation*  
+_Menu Navigation_  
 Complex navigation paths will be laid out like a flow chart, with the menu options being listed in chronological order and separated by an arrow ( → ). You can identify a menu navigation path by text surrounded by square brackets ( [ ] ).
 
 !!! example
 
     [ option 1 → option 2 → option 3 ]
 
-*User Actions*  
+_User Actions_  
 To denote when a user should perform certain actions on an element of the page, the action and associated keystroke will be bolded. **Click** actions with no specified keystroke default to the **left mouse button**.
 
 !!! example
 
-    **Click** on the X icon in the top right corner. 
+    **Click** on the X icon in the top right corner.
 
 !!! example
 
     **Select** the elements by clicking and holding the **right mouse button.**
+
+_Shortcut Keys_
+
+Some actions can be completed by clicking specific keys on your keyboard. These keys will be denoted with the key name in parentheses.
+
+!!! example
+
+    Select the frame tool ( F ).
 
 ## Admonitions
 
