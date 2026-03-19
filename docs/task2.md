@@ -74,3 +74,5 @@ The hand tool allows you to move around the workspace.
 You can zoom in and out of the workspace to see elements better.
 
 1. **Click** on the percent number drop down menu under the ‘share’ button and select a zoom option. Additionally, you can use (ctrl + +) to zoom in and (ctrl + -) to zoom out one increment at a time.
+
+Now you can create a collaborative design file and move about the workspace confidently. In the [next article](task3.md), we’ll look at how to use the design tools to begin creating some visuals.

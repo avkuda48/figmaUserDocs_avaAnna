@@ -59,3 +59,5 @@ If you want to add a new collaborator or change an existing collaborator’s per
     *Can View* permissions grant the collaborator the ability to look at files within the project. They cannot edit, create, or delete anything.
 
     *Owner* permissions go to the creator of the project and cannot be transferred.
+
+With a project made and collaborators invited to it, you can begin working with members of your team to design and prototype. In the [next article](task2.md), we’ll look at how to set up a design file for your team to access.
