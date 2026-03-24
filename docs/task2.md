@@ -6,22 +6,22 @@ This article will walk you through how to create a design file within a collabor
 
 Now that you have a project and have added collaborators to it, you can create a number of different file types your team members can contribute to. This tutorial will cover the Design file type.
 
-1. While in your project, navigate to the top right corner and click the blue create button.
+1.  While in your project, navigate to the top right corner and click the blue create button.
 
-2. **Click** ‘Design’
-   ![dropdown menu of options from the create button including design as the first option](./imgs/task2-1-createButton.png)
+2.  **Click** ‘Design’
+    ![dropdown menu of options from the create button including design as the first option](./imgs/task2-1-createButton.png)
 
     Figma will take you to a blank design document.
 
-3. Navigate to the top of the right panel in the design document and **click** on ‘Untitled’
+3.  Navigate to the top of the right panel in the design document and **click** on ‘Untitled’
 
     !!! info
 
-    This is the name of your file. Projects can get very large very quickly, so it is recommended to name all your files.
+        This is the name of your file. Projects can get very large very quickly, so it is recommended to name all your files.
 
     ![top left panel of design document displaying 'untitled' as the file name](./imgs/task2-2-untitledFile.png)
 
-4. Type the name of your file and hit enter.
+4.  Type the name of your file and hit enter.
 
     !!! warning
 
@@ -29,7 +29,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
     Currently, this file has no canvas to work on. You must create a page to work on called a frame
 
-5. Create a Frame using the tool that looks like gridlines in the bottom center menu.
+5.  Create a Frame using the tool that looks like gridlines in the bottom center menu.
 
     ![toolbar with design tools](./imgs/task2-3-frameTool.png)
 
