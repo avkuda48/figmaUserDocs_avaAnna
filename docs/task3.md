@@ -66,7 +66,7 @@ If you want to be more precise about the position of your shape, you can enter n
 
 ### Layout Settings
 
-Specific values for a shape's size can be specified similarly to how you [specify its position](#position-1).
+Specific values for a shape's size can be specified similarly to how you [specify its position](#position).
 
 1. **Double click** on the input field labelled ‘W’ and **enter** a width. **Press enter** to implement your changes
 
