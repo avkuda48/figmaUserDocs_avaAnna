@@ -14,7 +14,8 @@ Now that you have a project and have added collaborators to it, you can create a
     Figma will take you to a blank design document.
 
 3. Navigate to the top of the right panel in the design document and **click** on ‘Untitled’
-   !!! info
+
+    !!! info
 
     This is the name of your file. Projects can get very large very quickly, so it is recommended to name all your files.
 
