@@ -34,11 +34,11 @@ If you want to add a new collaborator or change an existing collaborator’s per
 
 1. **Navigate** to top right corner in the project and **click** the grey share button.
 
-    ![share button to the right of blue create button](imgs/task1-3-shareButton.png)
+   ![share button to the right of blue create button](imgs/task1-3-shareButton.png)
 
-    This will open the share settings. Here, you can add new collaborators and change permissions.
+   This will open the share settings. Here, you can add new collaborators and change permissions.
 
-    ![form to add collaborators and edit permissions](imgs/task1-4-shareSettings.png)
+   ![form to add collaborators and edit permissions](imgs/task1-4-shareSettings.png)
 
 ### Add a new Collaborator
 
