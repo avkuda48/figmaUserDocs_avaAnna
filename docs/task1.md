@@ -8,13 +8,13 @@ Before we can add collaborators, we need a project to add them to. A project is 
 
 1.  **Navigate** to the top left panel of Figma’s homepage and **click** all projects.
 
-    ![homepage menu with links to pages entitled drafts, all projects, resources, and trash](imgs/task1-1-allProjsMenu.png)
+    ![homepage menu with links to pages entitled drafts, all projects, resources, and trash](imgs/task1-1-allProjsMenu.png "All Projects Menu Item")
 
 2.  **Navigate** to the top right corner and **click** the blue project button.
 
     This should trigger a popup and a series of text inputs to name your project and add collaborators.
 
-    ![blue button to create a new project](imgs/task1-2-createFileButton.png)
+    ![blue button to create a new project](imgs/task1-2-createFileButton.png "Create File Button")
 
 3.  **Name** your project
 
@@ -34,11 +34,11 @@ If you want to add a new collaborator or change an existing collaborator’s per
 
 1. **Navigate** to top right corner in the project and **click** the grey share button.
 
-   ![share button to the right of blue create button](imgs/task1-3-shareButton.png)
+   ![share button to the right of blue create button](imgs/task1-3-shareButton.png "Grey Share Button")
 
    This will open the share settings. Here, you can add new collaborators and change permissions.
 
-   ![form to add collaborators and edit permissions](imgs/task1-4-shareSettings.png)
+   ![form to add collaborators and edit permissions](imgs/task1-4-shareSettings.png "Share Menu")
 
 ### Add a new Collaborator
 
@@ -50,7 +50,7 @@ If you want to add a new collaborator or change an existing collaborator’s per
 
 2. **Click** on the permissions you want that collaborator to have
 
-![pop-up window of user permission options](imgs/task1-5-permissionsDropDown.png)
+![pop-up window of user permission options](imgs/task1-5-permissionsDropDown.png "Permissions Dropdown Menu")
 
 !!! info
 
@@ -60,5 +60,6 @@ If you want to add a new collaborator or change an existing collaborator’s per
 
     *Owner* permissions go to the creator of the project and cannot be transferred.
 
-\*\*
+## Conclusion
+
 With a project made and collaborators invited to it, you can begin working with members of your team to design and prototype. In the [next article](task2.md), we’ll look at how to set up a design file for your team to access.
