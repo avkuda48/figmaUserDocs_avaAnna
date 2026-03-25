@@ -30,7 +30,7 @@ With an existing shape selected, position settings allow you to place the select
 
 #### Alignment
 
-!!! note
+!!! info
 
     To use these settings, the selected item needs to be in a frame or multiple items need to be selected so that they can be positioned in reference to each other.
 
@@ -114,7 +114,7 @@ The fill is the inside of a shape.
 
     ![Graph of variations of a colour](imgs/task3-9-colourgraph.png "Colour Graph")
 
-!!! note
+!!! info
 
     Your shape will have a fill by default, but you can always remove it by clicking the minus icon to the bottom right of the fill settings.
 
