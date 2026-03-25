@@ -8,7 +8,7 @@ Prototyping in Figma works much like slideshows do. In order to link one page to
 
 1. Create a frame using the frame tool (F) and copy it by using the shortcut (CTRL + C) and pasting it with (CTRL + V)
 
-2. Label your frames by **double clicking** on the text to the top left of the frame. **Enter** the name of your frame and press enter when done.
+2. Label your frames by **double clicking** on the text to the top left of the frame. **Input** the name of your frame and press enter when done.
 
     ![Input field for frame name above frame](imgs/task4-1-labelFrame.png)
 
@@ -28,7 +28,7 @@ Often, application mocks have clickable text such as menu items or buttons that 
 
 2. **Click and drag** out a text box. Type out your text, and click anywhere out of the text box when done.
 
-3. Edit existing text by **double clicking** on the text box, re-entering the text, then **clicking** out of the text box when done.
+3. Edit existing text by **double clicking** on the text box, **inputting** the new text, then **clicking** out of the text box when done.
 
 ### Create Buttons
 
@@ -36,7 +36,7 @@ Often, application mocks have clickable text such as menu items or buttons that 
 
     Most buttons are rounded. You can round the corners of any shape created with the shape tool in the appearance settings under ‘corner radius’
 
-2. **Click** on the corner radius input field and enter your desired radius.
+2. **Click** on the corner radius input field and **input** your desired radius.
 
     ![Input field for corner radius in the appearance section](imgs/task4-3-cornerRadius.png)
 

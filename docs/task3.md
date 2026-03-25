@@ -32,7 +32,7 @@ With an existing shape **selected**, position settings allow you to place the se
 
 !!! note
 
-    To use these settings, multiple items need to be selected so that they can be positioned in reference to each other.
+    To use these settings, the selected item needs to be in a frame or multiple items need to be selected so that they can be positioned in reference to each other.
 
     To select multiple items **hold the shift key** and **click** the items you want selected.
 
@@ -56,11 +56,11 @@ The options in the left panel alter vertical alignment. From left to right, thes
 
 #### Position
 
-If you want to be more precise about the position of your shape, you can enter numerical values for the vertical and horizontal positioning.
+If you want to be more precise about the position of your shape, you can input numerical values for the vertical and horizontal positioning.
 
-1. **Double click** on the input field labelled ‘X’ and **enter** a value in pixels. **Press enter** to implement your changes
+1. **Double click** on the input field labelled ‘X’ and **input** a value in pixels. **Press enter** to implement your changes
 
-2. **Double click** on the input field labelled ‘Y’ and **enter** a value in pixels. **Press enter** to implement your changes
+2. **Double click** on the input field labelled ‘Y’ and **input** a value in pixels. **Press enter** to implement your changes
 
 ![Input fields for vertical and horizontal position](imgs/task3-position.png)
 
@@ -68,9 +68,9 @@ If you want to be more precise about the position of your shape, you can enter n
 
 Specific values for a shape's size can be specified similarly to how you [specify its position](#position).
 
-1. **Double click** on the input field labelled ‘W’ and **enter** a width. **Press enter** to implement your changes
+1. **Double click** on the input field labelled ‘W’ and **input** a width. **Press enter** to implement your changes
 
-2. **Double click** on the input field labelled ‘H’ and **enter** a height. **Press enter** to implement your changes
+2. **Double click** on the input field labelled ‘H’ and **input** a height. **Press enter** to implement your changes
 
 ![Input fields for a shape's height and width](imgs/task3-4-layout.png)
 
@@ -88,7 +88,7 @@ Opacity refers to how transparent an image is.
 
 1. **Double click** on the opacity input field under ‘appearance’
 
-2. **Enter** a percent from 1 - 100, 1 being the least visible and 100 being fully visible. **Press enter** to save your changes.
+2. **Input** a percent from 1 - 100, 1 being the least visible and 100 being fully visible. **Press enter** to save your changes.
 
 ![Input field for shape opacity](imgs/task3-7-opacity.png)
 
@@ -98,7 +98,7 @@ The fill is the inside of a shape.
 
 1. Navigate to the fill section of the appearance settings.
 
-    If you have a hex code **double click** the field where the current hex code is, **enter** your hex code, and **press enter** to save your changes.
+    If you have a hex code **double click** the field where the current hex code is, **input** your hex code, and **press enter** to save your changes.
 
     Otherwise, **click** on the coloured square next to the hex code.
 
@@ -126,7 +126,7 @@ The stroke is the outline of the shape. You can alter its width, colour, and opa
 
     ![Stroke setting found in right-hand panel](imgs/task3-11-strokePlus.png)
 
-2. Change it’s width by **clicking** on the weight input field and **entering** in a numerical value.
+2. Change it’s width by **clicking** on the weight input field and **inputting** in a numerical value.
 
 !!! note
 
