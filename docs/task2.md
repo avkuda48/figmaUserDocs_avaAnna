@@ -6,7 +6,7 @@ This article will walk you through how to create a design file within a collabor
 
 Now that you have a project and have added collaborators to it, you can create a number of different file types your team members can contribute to. This tutorial will cover the Design file type.
 
-1.  While in your project, navigate to the top right corner and click the blue create button.
+1.  **Navigate** to the top right corner in your project and click the blue create button.
 
 2.  **Click** ‘Design’
     ![dropdown menu of options from the create button including design as the first option](./imgs/task2-1-createButton.png)
@@ -25,7 +25,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
     !!! warning
 
-        When you export this file, the file name will default to the name you give it in Figma. To follow best practices and avoid file path issues, choose a short and descriptive name. Avoid spaces and instead use a naming convention like [camelCase](https://en.wikipedia.org/wiki/Camel_case) or replace the spaces with dashes or underscores.
+        When you export this file, the file name will default to the name you give it in Figma. To follow best practices and avoid file path issues, choose a short and descriptive name. Avoid spaces and instead use a naming convention like [camelCase](glossary.md) or replace the spaces with dashes or underscores.
 
     Currently, this file has no canvas to work on. You must create a page to work on called a frame
 
@@ -35,7 +35,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
 ### Drag out a Frame
 
-1. With the frame tool selected, **click** and **drag** a white rectangle with your mouse. This is your frame.
+1. **Select** the frame tool, **click** and **drag** a white rectangle with your mouse. This is your frame.
 
     With the frame selected, the rightmost panel of the workspace will become a frame settings menu.
 
@@ -45,7 +45,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
 ### Use Preset
 
-1. With the frame tool selected, **click** on one of the preset frames in the right panel to insert it into the workspace.
+1. **Select** the frame tool, **click** on one of the preset frames in the right panel to insert it into the workspace.
 
     ![menu of preset options for frames](./imgs/task2-4-framePresets.png)
 
