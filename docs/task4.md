@@ -120,7 +120,7 @@ Figma has a built-in testing feature for you to try out your mock up.
 
 2. In the top right corner of the page, **click** on the sliders icon
 
-    ![Button with icon of sliders](imgs/task4-slidersicon)
+    ![Button with icon of sliders](imgs/task4-slidersicon.png)
 
 3. Choose the size settings you want
 
