@@ -9,7 +9,7 @@ Now that you have a project and have added collaborators to it, you can create a
 1.  **Navigate** to the top right corner in your project and click the blue create button.
 
 2.  **Click** ‘Design’
-    ![dropdown menu of options from the create button including design as the first option](./imgs/task2-1-createButton.png)
+    ![dropdown menu of options from the create button including design as the first option](./imgs/task2-1-createButton.png "Create File Button")
 
     Figma will take you to a blank design document.
 
@@ -19,7 +19,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
         This is the name of your file. Projects can get very large very quickly, so it is recommended to name all your files.
 
-    ![top left panel of design document displaying 'untitled' as the file name](./imgs/task2-2-untitledFile.png)
+    ![top left panel of design document displaying 'untitled' as the file name](./imgs/task2-2-untitledFile.png "File Name")
 
 4.  **Input** the name of your file and **press enter**.
 
@@ -31,7 +31,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
 5.  **Create** a Frame using the tool that looks like grid lines in the bottom center menu.
 
-    ![toolbar with design tools](./imgs/task2-3-frameTool.png)
+    ![toolbar with design tools](./imgs/task2-3-frameTool.png "Frame Tool (Blue)")
 
 ### Drag out a Frame
 
@@ -39,7 +39,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
     With the frame selected, the rightmost panel of the workspace will become a frame settings menu.
 
-    ![menu of options for frame position, dimensions, and layout](./imgs/task2-3-frameSettings.png)
+    ![menu of options for frame position, dimensions, and layout](./imgs/task2-3-frameSettings.png "Frame Settings")
 
 2. **Click** on the width and height input fields under ‘Dimensions’ to specify exact dimensions. **Press enter** when you are done.
 
@@ -47,7 +47,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
 1. **Select** the frame tool, **click** on one of the preset frames in the right panel to insert it into the workspace.
 
-    ![menu of preset options for frames](./imgs/task2-4-framePresets.png)
+    ![menu of preset options for frames](./imgs/task2-4-framePresets.png "Frame Presets")
 
     You can move or resize your frame at any time by selecting the frame tool ( F ) and **clicking** on the frame.
 
@@ -59,7 +59,7 @@ To manipulate an element on the page, you need to use the select tool.
 
     This tool will allow you to select and move elements in the workspace.
 
-    ![toolbar with the select tool selected](./imgs/task2-5-selectTool.png)
+    ![toolbar with the select tool selected](./imgs/task2-5-selectTool.png "Select Tool (Blue)")
 
 ### Move Tools
 
@@ -75,5 +75,7 @@ The hand tool allows you to move around the workspace.
 You can zoom in and out of the workspace to see elements better.
 
 1. **Click** on the percent number drop down menu under the ‘share’ button and select a zoom option. Additionally, you can use (ctrl + +) to zoom in and (ctrl + -) to zoom out one increment at a time.
+
+## Conclusion
 
 Now you can create a collaborative design file and move about the workspace confidently. In the [next article](task3.md), we’ll look at how to use the design tools to begin creating some visuals.

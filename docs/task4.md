@@ -10,7 +10,7 @@ Prototyping in Figma works much like slideshows do. In order to link one page to
 
 2. **Label** your frames by **double clicking** on the text to the top left of the frame. **Input** the name of your frame and **press enter** when done.
 
-    ![Input field for frame name above frame](imgs/task4-1-labelFrame.png)
+    ![Input field for frame name above frame](imgs/task4-1-labelFrame.png "Frame Name")
 
 !!! note
 
@@ -24,7 +24,7 @@ Often, application mocks have clickable text such as menu items or buttons that 
 
 1. **Navigate** to the main menu and **click** the T icon to activate the text tool ( T )
 
-    ![Toolbar with a letter T icon highlighted](imgs/task4-2-typeTool.png)
+    ![Toolbar with a letter T icon highlighted](imgs/task4-2-typeTool.png "Type Tool (Blue)")
 
 2. **Click and drag** out a text box. Type out your text, and click anywhere out of the text box when done.
 
@@ -38,7 +38,7 @@ Often, application mocks have clickable text such as menu items or buttons that 
 
 2. **Click** on the corner radius input field and **input** your desired radius.
 
-    ![Input field for corner radius in the appearance section](imgs/task4-3-cornerRadius.png)
+    ![Input field for corner radius in the appearance section](imgs/task4-3-cornerRadius.png "Corner Settings")
 
 3. Optional: **Create** text on top of the button to create a button with text
 
@@ -48,7 +48,7 @@ Often, application mocks have clickable text such as menu items or buttons that 
 
 If any of your compound elements are not appearing in the order that you want them to, you can shift their order in the layer panel on the left side of the workspace.
 
-![Panel for layers with names of layers on the document](imgs/task4-4-layerPanel.png)
+![Panel for layers with names of layers on the document](imgs/task4-4-layerPanel.png "Layers Panel")
 
 Layers with the frame icon next to them are your frames.
 
@@ -66,15 +66,15 @@ Once your design and clickable elements on your frames have been created, you ca
 
 1. **Open** your prototype panel by **navigating** to the top of the right panel in the workspace and **clicking** prototype.
 
-![Link for prototype in the top right panel](imgs/task4-5-prototype.png)
+![Link for prototype in the top right panel](imgs/task4-5-prototype.png "Prototype Button")
 
 This enters prototype mode. In this mode, all your elements and frames will have a blue circle with a plus in it, called a connection node.
 
-![Element in frame with blue circle and plus inside located on the right side of the element](imgs/task4-6-connectionNode.png)
+![Element in frame with blue circle and plus inside located on the right side of the element](imgs/task4-6-connectionNode.png "Rectangle with Connection Node")
 
 1. **Click** on an element you want to be interactive and **click and hold** its connection node and **drag** it to the element you want it to connect to.
 
-![Blue line connecting text that says 'catalogue' to the outline of a frame called 'catalogue'](imgs/task4-7-connection.png)
+![Blue line connecting text that says 'catalogue' to the outline of a frame called 'catalogue'](imgs/task4-7-connection.png "Connection")
 
 In this case, I’ve clicked on the catalogue menu item’s connection node and connected it to my catalogue frame by dragging it to the edge of the frame.
 
@@ -86,7 +86,7 @@ Next, I want my call to action button on the homepage to also redirect the user 
 
 2.  **Group** these elements together by using the shortcut (CTRL + G)
 
-    ![Rectangle and text grouped together as 'group 4'](imgs/task4-8-group.png)
+    ![Rectangle and text grouped together as 'group 4'](imgs/task4-8-group.png "Group in Layers Panel")
 
     A new element in the layers panel will be created, typically called 'Group 1'. Rename this group by **double-clicking** its title and **inputting** your desired name for the group.
 
@@ -96,9 +96,9 @@ Next, I want my call to action button on the homepage to also redirect the user 
 
          Grouping elements is a great way to keep your layers panel a little tidier.
 
-3.  **Click** its connection node with the button group selected** and **drag\*\* it to the desired page.
+3.  **Click** its connection node with the button group selected** and **drag** it to the desired page.
 
-    ![Arrow stemming from the button element and pointing to a separate frame](imgs/task4-9-button.png)
+    ![Arrow stemming from the button element and pointing to a separate frame](imgs/task4-9-button.png "Connection Arrow")
 
 !!! note
 
@@ -112,7 +112,7 @@ Figma has a built-in testing feature for you to try out your mock up.
 
 1. **Navigate** to the top right of the right panel and **click** the play button.
 
-    ![Play button icon found in top right corner of the window](imgs/task4-10-play.png)
+    ![Play button icon found in top right corner of the window](imgs/task4-10-play.png "Prototype Play Button")
 
     This will open a new tab in your browser where you can test your application.
 
@@ -120,7 +120,7 @@ Figma has a built-in testing feature for you to try out your mock up.
 
 2. **Click** on the sliders icon in the top right corner of the page.
 
-    ![Button with icon of sliders](imgs/task4-slidersicon.png)
+    ![Button with icon of sliders](imgs/task4-slidersicon.png "Sliders Button")
 
 3. **Choose** the size settings you want
 
@@ -129,5 +129,7 @@ Figma has a built-in testing feature for you to try out your mock up.
 !!! note
 
     If you forget which buttons are clickable, just **click** anywhere on the screen and the elements with connections will be highlighted in blue.
+
+## Conclusion
 
 Now you and your team can test your design on real people, get feedback, and improve your mock ups within Figma.
