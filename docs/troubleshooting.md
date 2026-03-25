@@ -23,7 +23,9 @@ If you have correctly added your collaborators and they still cannot see or acce
 ### Collaborator’s Email has no Associated Figma Account
 
 All collaborators must have an email with a registered Figma account before they are able to see and edit files in your project.
-Wrong Permissions
+
+### Wrong Permissions
+
 Check that you have given your collaborator the correct permissions. [Read this article](task1.md) to see how to change a collaborator’s permissions.
 
 ## Image Resolution
