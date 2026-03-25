@@ -36,7 +36,7 @@ If you want to add a new collaborator or change an existing collaborator’s per
 
    ![share button to the right of blue create button](imgs/task1-3-shareButton.png "Grey Share Button")
 
-   This will open the share settings. Here, you can add new collaborators and change permissions.
+    This will open the share settings. Here, you can add new collaborators and change permissions.
 
    ![form to add collaborators and edit permissions](imgs/task1-4-shareSettings.png "Share Menu")
 
