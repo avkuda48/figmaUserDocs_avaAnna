@@ -6,9 +6,9 @@ In this article we will cover how to prototype your designs, which includes addi
 
 Prototyping in Figma works much like slideshows do. In order to link one page to the next, you will need at least two frames in your figma workspace.
 
-1. Create a frame using the frame tool (F) and copy it by using the shortcut (CTRL + C) and pasting it with (CTRL + V)
+1. **Create** a frame using the frame tool (F) and **copy** it by using the shortcut (CTRL + C) and **pasting** it with (CTRL + V)
 
-2. Label your frames by **double clicking** on the text to the top left of the frame. **Input** the name of your frame and press enter when done.
+2. **Label** your frames by **double clicking** on the text to the top left of the frame. **Input** the name of your frame and **press enter** when done.
 
     ![Input field for frame name above frame](imgs/task4-1-labelFrame.png)
 
@@ -22,17 +22,17 @@ Often, application mocks have clickable text such as menu items or buttons that 
 
 ### Create Text
 
-1. Navigate to the main menu and **click** the T icon to activate the text tool ( T )
+1. **Navigate** to the main menu and **click** the T icon to activate the text tool ( T )
 
     ![Toolbar with a letter T icon highlighted](imgs/task4-2-typeTool.png)
 
 2. **Click and drag** out a text box. Type out your text, and click anywhere out of the text box when done.
 
-3. Edit existing text by **double clicking** on the text box, **inputting** the new text, then **clicking** out of the text box when done.
+3. **Edit** existing text by **double clicking** on the text box, **inputting** the new text, then **clicking** out of the text box when done.
 
 ### Create Buttons
 
-1. Create the button shape of your choice using the [shape tools](task3.md/#shape-tools).
+1. **Create** the button shape of your choice using the [shape tools](task3.md/#shape-tools).
 
     Most buttons are rounded. You can round the corners of any shape created with the shape tool in the appearance settings under ‘corner radius’
 
@@ -40,7 +40,7 @@ Often, application mocks have clickable text such as menu items or buttons that 
 
     ![Input field for corner radius in the appearance section](imgs/task4-3-cornerRadius.png)
 
-3. Optional: Create text on top of the button to create a button with text
+3. Optional: **Create** text on top of the button to create a button with text
 
     If your text appears underneath the button shape, you can alter the layer it appears on in the layer settings
 
@@ -64,7 +64,7 @@ Layers with the frame icon next to them are your frames.
 
 Once your design and clickable elements on your frames have been created, you can connect each button or menu item to the page it will redirect the user to.
 
-1. Open your prototype panel by navigating to the top of the right panel in the workspace and **clicking** prototype.
+1. **Open** your prototype panel by **navigating** to the top of the right panel in the workspace and **clicking** prototype.
 
 ![Link for prototype in the top right panel](imgs/task4-5-prototype.png)
 
@@ -84,7 +84,7 @@ Next, I want my call to action button on the homepage to also redirect the user 
 
 1.  **Select** both the button shape and the text by **holding shift and clicking** both elements.
 
-2.  Group these elements together by using the shortcut (CTRL + G)
+2.  **Group** these elements together by using the shortcut (CTRL + G)
 
     ![Rectangle and text grouped together as 'group 4'](imgs/task4-8-group.png)
 
@@ -96,7 +96,7 @@ Next, I want my call to action button on the homepage to also redirect the user 
 
          Grouping elements is a great way to keep your layers panel a little tidier.
 
-3.  With the button group selected, **click** its connection node and **drag** it to the desired page.
+3.  **Click** its connection node with the button group selected** and **drag\*\* it to the desired page.
 
     ![Arrow stemming from the button element and pointing to a separate frame](imgs/task4-9-button.png)
 
@@ -110,7 +110,7 @@ Next, I want my call to action button on the homepage to also redirect the user 
 
 Figma has a built-in testing feature for you to try out your mock up.
 
-1. Navigate to the top right of the right panel and **click** the play button.
+1. **Navigate** to the top right of the right panel and **click** the play button.
 
     ![Play button icon found in top right corner of the window](imgs/task4-10-play.png)
 
@@ -118,13 +118,13 @@ Figma has a built-in testing feature for you to try out your mock up.
 
     Depending on the dimensions of your frame, your mock up might appear too small or large to fit on the screen.
 
-2. In the top right corner of the page, **click** on the sliders icon
+2. **Click** on the sliders icon in the top right corner of the page.
 
     ![Button with icon of sliders](imgs/task4-slidersicon.png)
 
-3. Choose the size settings you want
+3. **Choose** the size settings you want
 
-4. Click on any of your interactive elements to see how they work.
+4. **Click** on any of your interactive elements to see how they work.
 
 !!! note
 

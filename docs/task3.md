@@ -4,11 +4,11 @@ With a design file and basic knowledge about how to move around the workspace, w
 
 ## Shape Tools
 
-1. Navigate to the main menu bar and **click** the square icon to activate the rectangle tool ( R )
+1. **Navigate** to the main menu bar and **click** the square icon to activate the rectangle tool ( R )
 
     ![Toolbar with a square icon highlighted](imgs/task3-1-shapeTool.png)
 
-2. **Click and drag** to drag out a rectangle shape on the workspace. **Release** the click to create the shape.
+2. **Click, hold, and drag** to drag out a rectangle shape on the workspace. **Release** the click to create the shape.
 
 Create other shapes by selecting from any of the options in the rectangle tool’s dropdown menu:
 
@@ -76,7 +76,7 @@ Specific values for a shape's size can be specified similarly to how you [specif
 
 To keep the current ratio of your shape while scaling up/down, click on the square icon next to the width and height fields to enable ratio lock. When you scale your shape, the ratio from width to height will stay the same.
 
-![](imgs/task3-5-scaleRatio.png)
+![icon of a box with outward arrows inside](imgs/task3-5-scaleRatio.png)
 
 ### Appearance Settings
 
@@ -96,9 +96,9 @@ Opacity refers to how transparent an image is.
 
 The fill is the inside of a shape.
 
-1. Navigate to the fill section of the appearance settings.
+1. **Navigate** to the fill section of the appearance settings.
 
-    If you have a hex code **double click** the field where the current hex code is, **input** your hex code, and **press enter** to save your changes.
+    If you have a [hex code](/docs/glossary.md) for your desired colour, **double click** the field where the current hex code is, **input** your hex code, and **press enter** to save your changes.
 
     Otherwise, **click** on the coloured square next to the hex code.
 
@@ -126,7 +126,7 @@ The stroke is the outline of the shape. You can alter its width, colour, and opa
 
     ![Stroke setting found in right-hand panel](imgs/task3-11-strokePlus.png)
 
-2. Change it’s width by **clicking** on the weight input field and **inputting** in a numerical value.
+2. **Edit** it’s width by **clicking** on the weight input field and **inputting** in a numerical value.
 
 !!! note
 
@@ -136,9 +136,9 @@ The stroke is the outline of the shape. You can alter its width, colour, and opa
 
 You can import any photos or videos on your computer to your Figma file with this tool.
 
-1. Navigate to the rectangle tool’s drop down menu and **click** ‘Image/Video’ ( Ctrl + Shift + K )
+1. **Navigate** to the rectangle tool’s drop down menu and **click** ‘Image/Video’ ( Ctrl + Shift + K )
 
-2. From the local files pop-up, select which media to add to your project.
+2. **Select** from the local files pop-up which media to add to your project.
 
 Alternatively, you can drag and drop files from another window into the Figma workspace.
 
@@ -146,11 +146,11 @@ Alternatively, you can drag and drop files from another window into the Figma wo
 
 The pen tool can be used to create custom shapes.
 
-1. Navigate to the main menu bar and **click** the pen icon to activate the pen tool. ( P )
+1. **Navigate** to the main menu bar and **click** the pen icon to activate the pen tool. ( P )
 
     ![Toolbar with a pen icon highlighted](imgs/task3-3-penTool.png)
 
-2. To begin drawing a shape, **click** anywhere on the frame.
+2. **Click** anywhere on the frame to begin drawing a shape.
 
     This creates a point. The created point is represented with a solid blue circle. As you move your cursor around the page, a line connecting the point and your cursor will appear. Under your cursor will be the outline of a blue circle.
 

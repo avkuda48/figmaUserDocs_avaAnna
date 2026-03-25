@@ -21,7 +21,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
     ![top left panel of design document displaying 'untitled' as the file name](./imgs/task2-2-untitledFile.png)
 
-4.  Type the name of your file and **press enter**.
+4.  **Input** the name of your file and **press enter**.
 
     !!! warning
 
@@ -29,7 +29,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
     Currently, this file has no canvas to work on. You must create a page to work on called a frame
 
-5.  Create a Frame using the tool that looks like grid lines in the bottom center menu.
+5.  **Create** a Frame using the tool that looks like grid lines in the bottom center menu.
 
     ![toolbar with design tools](./imgs/task2-3-frameTool.png)
 
@@ -41,7 +41,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
     ![menu of options for frame position, dimensions, and layout](./imgs/task2-3-frameSettings.png)
 
-2. Specify exact dimensions by **clicking** on the width and height input fields under ‘Dimensions’ **Press enter** when you are done.
+2. **Click** on the width and height input fields under ‘Dimensions’ to specify exact dimensions. **Press enter** when you are done.
 
 ### Use Preset
 
@@ -55,7 +55,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
 To manipulate an element on the page, you need to use the select tool.
 
-1. Navigate to the bottom main menu and **click** the cursor button to activate the select tool ( V ).
+1. **Navigate** to the bottom main menu and **click** the cursor button to activate the select tool ( V ).
 
     This tool will allow you to select and move elements in the workspace.
 
@@ -66,11 +66,11 @@ To manipulate an element on the page, you need to use the select tool.
 The hand tool allows you to move around the workspace.
 
 1. **Activate** the Hand Tool ( H ). Your cursor should become a hand.
-2. Click and drag your mouse to move around the workspace. Release your mouse button to reposition.
+2. **Click** and **drag** your mouse to move around the workspace. Release your mouse button to reposition.
 
     Additionally, you can activate the hand tool in the main menu: [ select drop down → hand tool ]
 
-3. Deactivate hand tool by (V) or by selecting the select tool.
+3. **Deactivate** hand tool by (V) or by selecting the select tool.
 
 You can zoom in and out of the workspace to see elements better.
 
