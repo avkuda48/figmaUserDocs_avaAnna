@@ -8,7 +8,7 @@ With a design file and basic knowledge about how to move around the workspace, w
 
     ![Toolbar with a square icon highlighted](imgs/task3-1-shapeTool.png)
 
-2. **Click, hold, and drag** to drag out a rectangle shape on the workspace. **Release** the click to create the shape.
+2. **Click, hold, and drag** to create a preview of a rectangle shape that you want to create on the workspace. **Release** the click to create the shape.
 
 Create other shapes by selecting from any of the options in the rectangle tool’s dropdown menu:
 
@@ -26,7 +26,7 @@ With any shape tool selected or by **clicking** on a shape on the frame to selec
 
 ### Position Settings
 
-With an existing shape **selected**, position settings allow you to place the selected shape precisely.
+With an existing shape selected, position settings allow you to place the selected shape precisely.
 
 #### Alignment
 

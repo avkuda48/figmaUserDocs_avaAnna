@@ -1,6 +1,6 @@
 # Introduction
 
-This documentation serves as a walk-through of Figma’s most essential collaboration, design, and prototype tools. The goal is to provide new users with a foundational understanding of how to:
+This documentation serves as a walk-through of [Figma’s](glossary.md) most essential collaboration, design, and prototype tools. The goal is to provide new users with a foundational understanding of how to:
 
 1. Create a Figma project and add collaborators to it
 2. Create a collaborative design file
