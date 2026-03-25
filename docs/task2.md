@@ -21,15 +21,15 @@ Now that you have a project and have added collaborators to it, you can create a
 
     ![top left panel of design document displaying 'untitled' as the file name](./imgs/task2-2-untitledFile.png)
 
-4.  Type the name of your file and hit enter.
+4.  Type the name of your file and **press enter**.
 
     !!! warning
 
-    When you export this file, the file name will default to the name you give it in Figma. To follow best practices and avoid file path issues, choose a short and descriptive name. Avoid spaces and instead use a naming convention like [camelCase](https://en.wikipedia.org/wiki/Camel_case) or replace the spaces with dashes or underscores.
+        When you export this file, the file name will default to the name you give it in Figma. To follow best practices and avoid file path issues, choose a short and descriptive name. Avoid spaces and instead use a naming convention like [camelCase](https://en.wikipedia.org/wiki/Camel_case) or replace the spaces with dashes or underscores.
 
     Currently, this file has no canvas to work on. You must create a page to work on called a frame
 
-5.  Create a Frame using the tool that looks like gridlines in the bottom center menu.
+5.  Create a Frame using the tool that looks like grid lines in the bottom center menu.
 
     ![toolbar with design tools](./imgs/task2-3-frameTool.png)
 
@@ -41,7 +41,7 @@ Now that you have a project and have added collaborators to it, you can create a
 
     ![menu of options for frame position, dimensions, and layout](./imgs/task2-3-frameSettings.png)
 
-2. Specify exact dimensions by **clicking** on the width and height input fields under ‘Dimensions’ Press enter when you are done.
+2. Specify exact dimensions by **clicking** on the width and height input fields under ‘Dimensions’ **Press enter** when you are done.
 
 ### Use Preset
 
