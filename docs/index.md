@@ -45,6 +45,7 @@ Some actions can be completed by clicking specific keys on your keyboard. These 
 
     Select the frame tool ( F ).
 
+
 ## Admonitions
 
 This documentation uses message blocks to inform the reader of information relevant to the section they are reading.
