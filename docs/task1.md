@@ -34,11 +34,11 @@ If you want to add a new collaborator or change an existing collaborator’s per
 
 1. **Navigate** to top right corner in the project and **click** the grey share button.
 
-   ![share button to the right of blue create button](imgs/task1-3-shareButton.png)
+    ![share button to the right of blue create button](imgs/task1-3-shareButton.png)
 
-   This will open the share settings. Here, you can add new collaborators and change permissions.
+    This will open the share settings. Here, you can add new collaborators and change permissions.
 
-   ![form to add collaborators and edit permissions](imgs/task1-4-shareSettings.png)
+    ![form to add collaborators and edit permissions](imgs/task1-4-shareSettings.png)
 
 ### Add a new Collaborator
 
@@ -60,5 +60,4 @@ If you want to add a new collaborator or change an existing collaborator’s per
 
     *Owner* permissions go to the creator of the project and cannot be transferred.
 
-\*\*
 With a project made and collaborators invited to it, you can begin working with members of your team to design and prototype. In the [next article](task2.md), we’ll look at how to set up a design file for your team to access.
