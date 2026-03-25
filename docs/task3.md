@@ -14,7 +14,7 @@ Create other shapes by selecting from any of the options in the rectangle tool�
 
 ![Dropdown menu of different shapes as options to create](imgs/task3-2-rectangleDropDown.png "Shape Tool Dropdown Menu")
 
-!!! note
+!!! info
 
     **Hold the shift key** while dragging out a shape to create a shape with a perfect aspect ratio.
 
@@ -128,7 +128,7 @@ The stroke is the outline of the shape. You can alter its width, colour, and opa
 
 2. **Edit** it’s width by **clicking** on the weight input field and **inputting** in a numerical value.
 
-!!! note
+!!! info
 
     You can change a stroke’s colour and opacity the same way you do for the fill.
 

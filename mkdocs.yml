@@ -1,3 +1,4 @@
+
 site_name: Figma User Documentation
 site_url: https://sitename.example
 theme:
@@ -9,8 +10,12 @@ theme:
       warning: octicons/alert-16
       danger: octicons/zap-16
       example: octicons/beaker-16
+      
+extra_css:
+  - style.css
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
