@@ -12,7 +12,7 @@ Prototyping in Figma works much like slideshows do. In order to link one page to
 
     ![Input field for frame name above frame](imgs/task4-1-labelFrame.png "Frame Name")
 
-!!! note
+!!! info
 
     Large applications will require many frames, so ensure your labels are clear to everyone in your project.
 
@@ -56,7 +56,7 @@ Layers with the frame icon next to them are your frames.
 
 2. **Click and hold** on the element you want to change the order of, then simply drag it higher or lower to change which layer it appears on.
 
-!!! note
+!!! info
 
     This panel can quickly get overwhelming, so always name layers by double clicking on their existing name, typing a new one, and pressing enter.
 
@@ -92,7 +92,7 @@ Next, I want my call to action button on the homepage to also redirect the user 
 
     Grouped layers are much easier to keep track of than a loose compound element, especially when prototyping.
 
-    !!! note
+    !!! info
 
          Grouping elements is a great way to keep your layers panel a little tidier.
 
@@ -100,7 +100,7 @@ Next, I want my call to action button on the homepage to also redirect the user 
 
     ![Arrow stemming from the button element and pointing to a separate frame](imgs/task4-9-button.png "Connection Arrow")
 
-!!! note
+!!! info
 
     You can access more complicated prototype settings by clicking on a connection arrow. This will open the interactions panel, which allows you to change all sorts of settings like different trigger events, actions, and animations.
 
@@ -126,7 +126,7 @@ Figma has a built-in testing feature for you to try out your mock up.
 
 4. **Click** on any of your interactive elements to see how they work.
 
-!!! note
+!!! info
 
     If you forget which buttons are clickable, just **click** anywhere on the screen and the elements with connections will be highlighted in blue.
 
